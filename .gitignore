@@ -7,3 +7,4 @@ __pycache__/
 viola-jones_face_detection/viola-cvpr-01.pdf
 
 *.pdf
+.ipynb_checkpoints/
